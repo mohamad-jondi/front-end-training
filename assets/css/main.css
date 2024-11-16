@@ -1,3 +1,7 @@
+@import url("nav.css");
+@import url("footer.css");
+@import url("side.css");
+@import url("model.css");
 * {
   margin: 0;
   padding: 0;
